@@ -1,5 +1,7 @@
+import { Header } from "./layout/Header";
+
 function App() {
-  return <div>Quote</div>;
+  return <div>App</div>;
 }
 
 export default App;
