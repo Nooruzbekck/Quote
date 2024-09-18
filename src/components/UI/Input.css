@@ -1,0 +1,9 @@
+input {
+    height: 35px;
+    width: 688px;
+    border-radius: 4px;
+    background-color: #F0F0F0;
+}
+input:focus {
+    background-color: rgba(148, 255, 255, 0.786);
+}
