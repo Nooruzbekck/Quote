@@ -13,6 +13,9 @@ header {
   font-size: 22px;
   cursor: pointer;
 }
+.div > p {
+  cursor: pointer;
+}
 .name-pro {
   color: white;
   font-weight: 400;
