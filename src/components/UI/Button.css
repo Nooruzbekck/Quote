@@ -1,0 +1,11 @@
+.btn_contianed{
+    width: 153px;
+    height: 38px;
+    background-color: rgba(0, 128, 128, 1);
+    top: 74px;
+    left:  2478.5px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
