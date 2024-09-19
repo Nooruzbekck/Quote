@@ -1,11 +1,5 @@
-import { TextArea } from "./components/UI/TextArea";
-
 function App() {
-  return (
-    <div>
-      <TextArea />
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
