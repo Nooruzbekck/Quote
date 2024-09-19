@@ -1,9 +1,12 @@
 import React from "react";
 import "./TextArea.css";
-export const TextArea = () => {
+export const TextArea = ({ valur, onChange, ...props }) => {
   return (
-    <div>
-      <textarea className="text-area"></textarea>
-    </div>
+    <textarea
+      className="text-area"
+      value={valur}
+      onChange={onChange}
+      {...props}
+    ></textarea>
   );
 };
