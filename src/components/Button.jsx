@@ -4,9 +4,7 @@ import "./Button.css";
 const Button = () => {
   return (
     <div>
-      <button className="button">
-        <a href="#">Sort Ascending</a>
-      </button>
+      <button className="button">Sort Ascending</button>
     </div>
   );
 };
