@@ -1,9 +1,11 @@
 input {
-    height: 35px;
-    width: 688px;
-    border-radius: 4px;
-    background-color: #F0F0F0;
+  height: 35px;
+  width: 688px;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  border: none;
+  padding-left: 15px;
 }
 input:focus {
-    background-color: rgba(148, 255, 255, 0.786);
+  background-color: rgba(148, 255, 255, 0.786);
 }
