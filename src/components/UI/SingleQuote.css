@@ -1,0 +1,18 @@
+.div_next {
+  width: 576px;
+  height: 250px;
+  background: rgba(22, 43, 43, 1);
+  display: flex;
+}
+.h1_adik {
+  font-size: 32px;
+  font-weight: 700;
+  color: rgba(161, 224, 224, 1);
+  margin: 130px 0 0 0;
+}
+.p_next {
+  color: white;
+  font-weight: 400;
+  font-size: 32px;
+  margin: 60px 0 0 70px;
+}
