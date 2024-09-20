@@ -1,4 +1,3 @@
-import React from "react";
 import "./TextArea.css";
 export const TextArea = ({ valur, onChange, ...props }) => {
   return (
