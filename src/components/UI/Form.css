@@ -1,0 +1,28 @@
+.Form {
+  width: 720px;
+  height: 342px;
+  background-color: #ffff;
+  display: flex;
+  flex-direction: column;
+  margin-left: 360px;
+  border: 1px solid whitesmoke;
+  gap: 26px;
+}
+.wrapper-con {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  font-size: large;
+  font-weight: 400;
+  color: #000000;
+  margin: 5px 0 0 15px;
+}
+ .wrapper-wrap {
+  font-size: large;
+  font-weight: 500;
+  margin: 5px 0 0 15px;
+ }
+Button {
+  margin-left: 555px;
+}
+
