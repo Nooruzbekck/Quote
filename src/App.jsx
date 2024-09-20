@@ -1,10 +1,5 @@
-import { Quote } from "./components/quote/Quote";
 function App() {
-  return (
-    <div>
-      <Quote />
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
