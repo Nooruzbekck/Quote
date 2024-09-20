@@ -1,9 +1,5 @@
-import { Form } from "./components/UI/Form";
-
 function App() {
-  return <div>
-    <Form />
-  </div>;
+  return <div></div>;
 }
 
 export default App;
